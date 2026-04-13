@@ -1,0 +1,17 @@
+Lo que falta si queremos hacerlo 100% con dataset y sin HTML:
+
+corners
+pases completados / intentados / %
+regates
+duelos aéreos
+entradas totales / %
+despejes
+claims high
+errores
+Matiz:
+
+hay una tabla de temporada de pases, fact_player_season_passing_extra.csv, pero es de temporada, no de partido.
+Así que:
+
+xG, xGA, xPts, PPDA, xA, goles, tarjetas, minutos, alineaciones: sí, dataset.
+las stats tipo WhoScored de pase/regate/aire/defensa detallada: no están al nivel de partido en el dataset.
